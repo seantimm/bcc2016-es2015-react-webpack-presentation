@@ -1,7 +1,7 @@
 {
-  "name": "es2015-react-webpack",
+  "name": "bcc2016-es2015-react-webpack-presentation",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repo houses the source code and presentation given by me on ES2015, React & webpack for 2016 Boise Code Camp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
